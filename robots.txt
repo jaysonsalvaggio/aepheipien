@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phohnounoh.brgibson.com/sitemap.xml
